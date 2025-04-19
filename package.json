@@ -1,0 +1,9 @@
+{
+  "name": "ts-event-bus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tanonkim/TS-EventBus.git",
+  "author": "<robbins4bos@gmail.com>",
+  "license": "MIT",
+  "start": "tsc && node dist/main.js"
+}
