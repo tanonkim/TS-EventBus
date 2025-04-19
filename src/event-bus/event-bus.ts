@@ -5,7 +5,7 @@ export class EventBus implements IEventBus {
     private static nextId = 0;
     public static instance?: EventBus = undefined;
 
-    constructor() {
+    private constructor() {
         this.subscribers = {};
     }
 
