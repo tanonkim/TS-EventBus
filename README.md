@@ -15,4 +15,4 @@ EventBus 아키텍쳐는 일반적으로 Pub/Sub 패턴과 연관된다. 이벤�
 소프트웨어의 컨텍스트에선 컴퓨터 대신 객체로 생각할 수 있다. 그러면 메세지는 이벤트버스를 통해 이벤트를 트리거할 수 있고, 이벤트를 통해 일부 데이터를 포함하여 데이터를 전송할 수 있다.
 
 ### 정리 노션
-[노션] (https://spiny-orbit-764.notion.site/EventBus-1da588b62479804f831ae4ccc4c96c11)
+[노션](https://spiny-orbit-764.notion.site/EventBus-1da588b62479804f831ae4ccc4c96c11)
